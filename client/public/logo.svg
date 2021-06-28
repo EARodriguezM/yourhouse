@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="287"
+   height="66"
+   viewBox="0 0 287 66"
+   fill="none"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:export-filename="/home/earodriguezm/Sources/Projects/yourhouse/client/public/logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs30">
+    <rect
+       x="72.696"
+       y="19.544"
+       width="244.37777"
+       height="56.840027"
+       id="rect6251" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.912892"
+     inkscape:cx="124.84372"
+     inkscape:cy="32.967943"
+     inkscape:window-width="1600"
+     inkscape:window-height="871"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26" />
+  <path
+     d="M30.4107 26.1155L42.1071 12H21.0535L9.74698 26.1155H30.4107Z"
+     fill="#E74C3C"
+     id="path2" />
+  <path
+     d="M9.35719 16.2346V21.4107L13.6459 16.2346H9.35719Z"
+     fill="#E74C3C"
+     id="path4" />
+  <path
+     d="M14.0357 40.231H17.1547V43.0541H14.0357V40.231Z"
+     fill="#E74C3C"
+     id="path6" />
+  <path
+     d="M42.1072 37.408H48.3453V48.7004H42.1072V37.408Z"
+     fill="#E74C3C"
+     id="path8" />
+  <path
+     d="M57.7024 48.7004V28.9387H32.75V48.7004H38.9881V35.9965C38.9881 35.2169 39.6864 34.5849 40.5476 34.5849H49.9048C50.766 34.5849 51.4643 35.2169 51.4643 35.9965V48.7004H57.7024Z"
+     fill="#E74C3C"
+     id="path10" />
+  <path
+     d="M56.1429 26.1156L45.2262 12.9415L34.3095 26.1156H56.1429Z"
+     fill="#E74C3C"
+     id="path12" />
+  <path
+     d="M29.631 28.9387H7.79764V48.7004H29.631V28.9387ZM26.5119 44.4658C26.5119 45.2453 25.8136 45.8773 24.9524 45.8773H12.4762C11.615 45.8773 10.9167 45.2453 10.9167 44.4658V33.1733C10.9167 32.3938 11.615 31.7618 12.4762 31.7618H24.9524C25.8136 31.7618 26.5119 32.3938 26.5119 33.1733V44.4658Z"
+     fill="#E74C3C"
+     id="path14" />
+  <path
+     d="M14.0357 34.5849H17.1547V37.408H14.0357V34.5849Z"
+     fill="#E74C3C"
+     id="path16" />
+  <path
+     d="M63.9405 51.5235H1.55952C0.698283 51.5235 0 52.1555 0 52.935C0 53.7145 0.698283 54.3466 1.55952 54.3466H63.9405C64.8017 54.3466 65.5 53.7145 65.5 52.935C65.5 52.1555 64.8017 51.5235 63.9405 51.5235Z"
+     fill="#E74C3C"
+     id="path18" />
+  <path
+     d="M20.2739 40.231H23.3929V43.0541H20.2739V40.231Z"
+     fill="#E74C3C"
+     id="path20" />
+  <path
+     d="M20.2739 34.5849H23.3929V37.408H20.2739V34.5849Z"
+     fill="#E74C3C"
+     id="path22" />
+  <text
+     xml:space="preserve"
+     id="text6249"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect6251);fill:#e74c3c;fill-opacity:1;stroke:none"
+     transform="translate(-12.032525,-3.6771928)"><tspan
+       x="72.695312"
+       y="55.982282"
+       id="tspan59956">YourHouse</tspan></text>
+</svg>
