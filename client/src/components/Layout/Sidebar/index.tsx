@@ -30,6 +30,7 @@ const Sidebar = ({ isOpen, onClose }: Props): JSX.Element => {
     if (isOpen) {
       onClose();
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [location]);
 
   const handleLogOut = (): void => {

@@ -2,7 +2,7 @@ import React from 'react';
 import {
   AiFillGithub,
   AiOutlineTwitter,
-  AiOutlineCodepen,
+  AiOutlineLinkedin,
 } from 'react-icons/ai';
 import { StyledFooter, Text, Social, SocialList } from './styled';
 
@@ -28,6 +28,15 @@ const Footer = (): JSX.Element => {
             rel="noopener noreferrer"
           >
             <AiOutlineTwitter />
+          </a>
+        </SocialList>
+        <SocialList>
+          <a
+            href="https://www.linkedin.com/in/earodriguezmelendez/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <AiOutlineLinkedin />
           </a>
         </SocialList>
       </Social>

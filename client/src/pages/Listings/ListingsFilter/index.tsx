@@ -86,6 +86,7 @@ const ListingsFilter = (): JSX.Element => {
     }
 
     pushUrl(newParams);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [
     filter.price.maxPrice,
     filter.price.minPrice,
