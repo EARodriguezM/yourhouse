@@ -37,6 +37,7 @@ import {
   ButtonWrapper,
 } from './styled';
 import ListingCountInfo from './ListingCountInfo';
+import formatPrice from 'utils/formatPrice';
 
 interface Params {
   id: string;
@@ -152,7 +153,7 @@ const Listing = (): JSX.Element => {
             />
           </Details>
           <PriceWrapper>
-            <Price>${listing.price}</Price>
+            <Price>{formatPrice(listing.price)} </Price>
           </PriceWrapper>
           <Heading> Descripción </Heading>
           <Description>{listing.description}</Description>
