@@ -162,13 +162,13 @@ const Listing = (): JSX.Element => {
       <BottomAction>
         <ButtonWrapper>
           <Button
-            title="Llamarc al agente"
+            title="Llamar agente"
             type="button"
             variant="primary"
             onClick={handleCallAgent}
           />
           <Button
-            title="Correo electrónico al agente"
+            title="Mensaje al agente"
             type="button"
             variant="outline"
             onClick={() => setIsOpenContactModal(true)}
