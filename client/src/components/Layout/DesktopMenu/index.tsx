@@ -53,7 +53,7 @@ const DesktopMenu = (): JSX.Element => {
         <Button
           variant="outline"
           type="button"
-          title="List your property"
+          title="Añadir Propiedad"
           style={{ width: '100%' }}
           to="/listing/create"
         />

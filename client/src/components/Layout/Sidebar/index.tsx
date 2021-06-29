@@ -117,7 +117,7 @@ const Sidebar = ({ isOpen, onClose }: Props): JSX.Element => {
       <StyledSideBar isOpen={isOpen}>
         <Head>
           <Link to="/" onClick={onClose}>
-            <Title> Property </Title>
+            <Title> Propiedades </Title>
           </Link>
           <CloseButton type="button" onClick={onClose}>
             <MdClose size={30} />
